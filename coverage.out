@@ -1,0 +1,26 @@
+mode: set
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:28.35,30.2 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:32.46,34.2 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:36.58,39.37 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:39.37,40.27 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:40.27,42.4 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:45.2,45.17 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:45.17,47.3 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:49.2,49.30 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:52.53,53.65 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:53.65,57.17 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:57.17,60.4 2 0
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:62.3,66.17 3 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:66.17,69.4 2 0
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:71.3,71.9 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:75.52,77.65 1 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:77.65,81.15 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:81.15,84.4 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:86.3,88.17 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:88.17,91.4 2 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:93.3,97.17 3 1
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:97.17,100.4 2 0
+gitlab.com/jeelabs/learnings/go-tdd/http_server/http.go:102.3,102.9 1 1
+gitlab.com/jeelabs/learnings/go-tdd/basic/number.go:7.32,10.31 2 1
+gitlab.com/jeelabs/learnings/go-tdd/basic/number.go:10.31,12.3 1 1
+gitlab.com/jeelabs/learnings/go-tdd/basic/number.go:12.8,14.3 1 1
